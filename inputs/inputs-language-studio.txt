@@ -1,1 +1,41 @@
-Colocar inputs aqui
+# Input 1 - avaliação de um hotel - língua portuguesa
+
+Pior lugar que já me hospedei na vida, abaixo de hotéis de posto de gasolina em estrada. 
+Hotel sujo, janela do quarto com vidro quebrada, baratas, fiz o pedido pra cama de casal e 
+me entregaram um quarto com duas camas de solteiro que não dava pra juntar. Colchão, toalhas e 
+roupas de cama de péssima qualidade, não tem serviço de quarto. 
+O banheiro é completamente sujo, com sujeira encrostada no box. Tive que ir buscar toalha 
+pessoalmente na recepção porque não tinham deixado no quarto e eles não entregavam no quarto. 
+Várias tomadas no quarto não estavam funcionando. Enfim, nenhum aspecto positivo.
+
+
+# Input 2 - avaliação de uma lanchonete - língua portuguesa
+
+O McDonald's é um ponto seguro, sempre padronizado e com padrão excelente de qualidade. 
+O lanche veio muito bem recheado e muito saboroso. Tinha bastante molho, e o tamanho era bom. 
+Essa batata frita é a média! Estava do tamanho ou até maior que muitas "grandes" que são 
+vendidas em outros Mcs. Mesmo sendo cauteloso com a alimentação e evitando o excesso de fast-food, 
+de vez em quando é muito bom comer aquele sanduba e tomar um McFlury de Ovomaltine!!
+Comida: 5/5  |  Serviço: 5/5  |  Ambiente: 5/5
+
+
+# Input 3 - letra de uma música - língua inglesa
+
+Imagine there's no heaven
+It's easy if you try
+No hell below us
+Above us, only sky
+Imagine all the people
+Livin' for today
+Ah
+Imagine there's no countries
+It isn't hard to do
+Nothing to kill or die for
+And no religion, too
+Imagine all the people
+Livin' life in peace
+You
+You may say I'm a dreamer
+But I'm not the only one
+I hope someday you'll join us
+And the world will be as one

@@ -8,7 +8,7 @@ Descreva o processo, alguns insights e possibilidades que você aprendeu
 <img src="/projeto-language-studio/imgs/mc1.PNG" alt="Input texto mcdonalds">
 <img src="/projeto-language-studio/imgs/mc2.PNG" alt="Análise de sentimentos do texto">
 <img src="/projeto-language-studio/imgs/mc3.PNG" alt="Análise da primeira sentença">
-<img src="/projeto-language-studio/imgs/mc4.PNG" alt="Texto original sendo analisado palavra por palavra">
+<img src="/imgs/mc4.PNG" alt="Texto original sendo analisado palavra por palavra">
 
 
 ## Input 2 - avaliação de uma lanchonete - língua portuguesa
